@@ -1,5 +1,18 @@
 # Mintlify Starter Kit
 
+
+<!-- mycelium-badges:start -->
+
+<p>
+  <a href="https://github.com/adelaidasofia/docs/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/adelaidasofia/docs?color=blue"></a>
+  <a href="https://github.com/adelaidasofia/docs/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adelaidasofia/docs?color=eab308"></a>
+  <a href="https://github.com/adelaidasofia/docs/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/adelaidasofia/docs"></a>
+  <a href="https://github.com/adelaidasofia/docs/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/adelaidasofia/docs"></a>
+  <a href="https://myceliumai.co"><img alt="Built by Mycelium AI" src="https://img.shields.io/badge/built_by-Mycelium_AI-15B89A"></a>
+</p>
+
+<!-- mycelium-badges:end -->
+
 Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
